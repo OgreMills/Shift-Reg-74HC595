@@ -1,8 +1,8 @@
 {
-  "name": "neopixel",
-  "author": "Adafruit, Technobly",
+  "name": "pineapple",
+  "author": "OgreTech",
   "license": "GNU GPLv3",
-  "version": "0.0.5",
-  "description": "An Implementation of Adafruit's NeoPixel Library for the Spark Core",
-  "namespace": "Adafruit_NeoPixel"
+  "version": "0.0.1",
+  "description": "Control 7 segment displays using shift register 74HC595",
+  "namespace": "OgreTech_Pineapple"
 }
