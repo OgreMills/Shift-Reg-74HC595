@@ -1,0 +1,8 @@
+{
+  "name": "Pineapple",
+  "author": "OgreTech",
+  "license": "GNU GPLv3",
+  "version": "0.0.1",
+  "description": Drive a 7 segment display using a shift register.",
+  "namespace": "Pineapple"
+}
